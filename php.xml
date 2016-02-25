@@ -28,6 +28,12 @@
             <configuration_option name="auto_prepend_file" value="" />
             <configuration_option name="bcmath.scale" value="0" />
             <configuration_option name="browscap" value="" />
+            <configuration_option name="com.allow_dcom" value="0" />
+            <configuration_option name="com.autoregister_casesensitive" value="1" />
+            <configuration_option name="com.autoregister_typelib" value="0" />
+            <configuration_option name="com.autoregister_verbose" value="0" />
+            <configuration_option name="com.code_page" value="" />
+            <configuration_option name="com.typelib_file" value="" />
             <configuration_option name="date.default_latitude" value="51.248532" />
             <configuration_option name="date.default_longitude" value="6.704677" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
@@ -253,13 +259,13 @@
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
-            <extension name="PDO_ODBC" />
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="bcmath" />
             <extension name="calendar" />
+            <extension name="com_dotnet" />
             <extension name="ctype" />
             <extension name="date" />
             <extension name="dom" />
