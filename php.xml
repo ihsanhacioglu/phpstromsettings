@@ -1,12 +1,12 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\php7\php.exe" id="f8451ddf-decb-4c9c-bd2a-2bb87bf5735d" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\php7\php.exe" id="f8451ddf-decb-4c9c-bd2a-2bb87bf5735d" name="PHP7" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP">
+      <interpreter name="PHP7">
         <phpinfo binary_type="PHP" php_cgi="C:\php7\php-cgi.exe" php_cli="C:\php7\php.exe" path_separator=";" remote_host="127.0.0.1" version="7.0.2">
           <additional_php_ini />
           <configuration_file>C:\php7\php.ini</configuration_file>
